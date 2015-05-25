@@ -3,6 +3,8 @@
 #include <math.h>
 #include <stdlib.h>
 
+//Funcion para calcular crecimiento
+
 int calcula_altura(int n){
     int altura=1,i=1;
     
